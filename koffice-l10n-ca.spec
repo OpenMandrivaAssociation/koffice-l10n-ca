@@ -1,5 +1,5 @@
 Name: koffice-l10n-ca
-Version: 1.9.99.0
+Version: 2.0.0
 Release: %mkrel 1
 Summary: Language files for KOffice Catalan
 Group: System/Internationalization
